@@ -1,2 +1,3 @@
-# ue4-marketplace-guidelines
-Translated guidelines to different languages
+# Unreal Engine 4 - Marketplace Guidelines
+## Readme.md WIP
+Translated guidelines!
